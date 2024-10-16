@@ -1,7 +1,7 @@
 # Linux-IPC-Shared-memory
 Ex06-Linux IPC-Shared-memory
 
-# AIM:
+## AIM:
 To Write a C program that illustrates two processes communicating using shared memory.
 
 # DESIGN STEPS:
@@ -18,9 +18,9 @@ Write the C Program using Linux Process API - Shared Memory
 
 Execute the C Program for the desired output. 
 
-# PROGRAM:
+## PROGRAM:
 
-## Write a C program that illustrates two processes communicating using shared memory.
+#### Write a C program that illustrates two processes communicating using shared memory.
 
 ```
 //shm.c
